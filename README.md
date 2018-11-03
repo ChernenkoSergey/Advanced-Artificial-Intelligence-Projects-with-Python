@@ -1,6 +1,6 @@
 # Advanced-Artificial-Intelligence-Projects-with-Python
 
-# Jupyter Notebook SpaCy wikipedia RDFLib mailbox deap essentia multiprocessing OpenAI Gym Keras
+# Jupyter Notebook SpaCy wikipedia RDFLib mailbox deap essentia multiprocessing OpenAI Gym NumPy Keras
 
 Видеокурс "Продвинутые Проекты Искусственного Интеллекта с Python"
 Автор Joshua Eckroth
